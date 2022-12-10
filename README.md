@@ -1,4 +1,4 @@
-# NuPhy Halo 65
+# NuPhy Halo65
 
 ## LED Indicator
 
